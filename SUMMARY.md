@@ -1,4 +1,4 @@
-# Marxismo e Pós-Estruturalismo: Diálogos e Confrontos em Foucault
+# Entre Marx e Foucault: Diálogos e Tensões
 
 [Introdução: Marxismo e Pós-Estruturalismo em Perspectiva](introducao_marxismo_e_posestruturalismo_em_perspectiva/SUMMARY.md)
 
@@ -6,15 +6,15 @@
 
 [Foucault: Rupturas com o Estruturalismo e o Marxismo](foucault_rupturas_com_o_estruturalismo_e_o_marxismo/SUMMARY.md)
 
-[Marxismo: Economia, Classe e Estruturas Materiais](marxismo_economia_classe_e_estruturas_materiais/SUMMARY.md)
+[Marxismo: Economia Política, Classe e Produção](marxismo_economia_politica_classe_e_producao/SUMMARY.md)
 
-[Foucault: Poder, Saber e Práticas Discursivas](foucault_poder_saber_e_praticas_discursivas/SUMMARY.md)
+[Foucault: Poder, Discurso e Subjetivação](foucault_poder_discurso_e_subjetivacao/SUMMARY.md)
 
-[Críticas Marxistas ao Pós-Estruturalismo](criticas_marxistas_ao_posestruturalismo/SUMMARY.md)
+[Críticas Marxistas ao Pós-Estruturalismo de Foucault](criticas_marxistas_ao_posestruturalismo_de_foucault/SUMMARY.md)
 
-[Contribuições Foucaultianas para a Análise Social](contribuicoes_foucaultianas_para_a_analise_social/SUMMARY.md)
+[Contribuições Foucaultianas ao Pensamento Crítico](contribuicoes_foucaultianas_ao_pensamento_critico/SUMMARY.md)
 
-[Diálogos Possíveis: Complementaridades e Limites](dialogos_possiveis_complementaridades_e_limites/SUMMARY.md)
+[Diálogos Possíveis: Articulações entre Marxismo e Pós-Estruturalismo](dialogos_possiveis_articulacoes_entre_marxismo_e_posestruturalismo/SUMMARY.md)
 
-[Conclusão: Para uma Análise Crítica e Plural das Dinâmicas Sociais](conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/SUMMARY.md)
+[Conclusão: Novos Caminhos para a Análise Social](conclusao_novos_caminhos_para_a_analise_social/SUMMARY.md)
 

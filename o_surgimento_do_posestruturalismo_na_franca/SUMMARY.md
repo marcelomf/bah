@@ -1,16 +1,12 @@
 # O Surgimento do Pós-Estruturalismo na França
 
-[Contexto histórico da França pós-guerra](contexto_historico_da_franca_posguerra/SUMMARY.md)
+[Contexto histórico da França pós-guerra e o ambiente intelectual](contexto_historico_da_franca_posguerra_e_o_ambiente_intelectual/SUMMARY.md)
 
-[Principais influências filosóficas do pós-estruturalismo](principais_influencias_filosoficas_do_posestruturalismo/SUMMARY.md)
+[Principais influências filosóficas do pós-estruturalismo](principais_influencias_filosoficas_do_posestruturalismo.md)
 
-[Diferenças entre estruturalismo e pós-estruturalismo](diferencas_entre_estruturalismo_e_posestruturalismo/SUMMARY.md)
+[Diferenças entre estruturalismo e pós-estruturalismo](diferencas_entre_estruturalismo_e_posestruturalismo.md)
 
-[O papel de Michel Foucault no pós-estruturalismo](o_papel_de_michel_foucault_no_posestruturalismo/SUMMARY.md)
+[O papel de Michel Foucault no desenvolvimento do pós-estruturalismo](o_papel_de_michel_foucault_no_desenvolvimento_do_posestruturalismo.md)
 
-[A recepção do pós-estruturalismo no meio intelectual francês](a_recepcao_do_posestruturalismo_no_meio_intelectual_frances/SUMMARY.md)
-
-[Impacto do Maio de 1968 no pensamento pós-estruturalista](impacto_do_maio_de_1968_no_pensamento_posestruturalista/SUMMARY.md)
-
-[Principais autores do pós-estruturalismo francês](principais_autores_do_posestruturalismo_frances/SUMMARY.md)
+[Impacto do pós-estruturalismo nas ciências humanas e sociais](impacto_do_posestruturalismo_nas_ciencias_humanas_e_sociais.md)
 
